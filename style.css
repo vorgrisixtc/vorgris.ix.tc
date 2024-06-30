@@ -91,6 +91,8 @@ cursor:pointer;
     overflow: hidden;
     backdrop-filter: blur(15px);
     transition: 0.7s;
+    caret-color: #fff;
+    color: #fff;
 }
 #searchbar:hover {
   box-shadow: #a400d6 0 1px 30px;
