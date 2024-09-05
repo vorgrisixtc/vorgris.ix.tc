@@ -8,12 +8,14 @@ main {
     display: flex;
     justify-content: center;
     padding: 0.5%;
+    font-family: 'San Francisco';
+    width: 40%;
+    height: 40%;
 }
 
 
 header {
-    width: 300px;
-    max-width: 300%;
+    width: 30%;
     margin: auto;
     background: #FF5252;
     padding: 10px 15px;
@@ -30,7 +32,6 @@ header {
     max-width: 100%;
     background: #141019;
     margin: 0 auto;
-    font-family: 'San Francisco';
   }
   #calculator .screen {
     min-height: 150px;
