@@ -30,6 +30,7 @@ header {
     max-width: 100%;
     background: #141019;
     margin: 0 auto;
+    font-family: 'San Francisco';
   }
   #calculator .screen {
     min-height: 150px;
