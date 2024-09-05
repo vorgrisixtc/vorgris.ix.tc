@@ -1,6 +1,6 @@
 body {
     background-color: #141019;
-    zoom: 200%;
+    zoom: 110%;
     font-family: 'San Francisco';
 }
 
@@ -77,6 +77,7 @@ header {
     background: #251d2e;
     cursor: pointer;
     transition: all 0.3s;
+    font-family: 'San Francisco';
   }
   #calculator .buttons button:hover,
   #calculator .buttons button.down,
