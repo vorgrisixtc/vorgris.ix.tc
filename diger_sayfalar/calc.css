@@ -1,6 +1,6 @@
 body {
     background-color: #141019;
-    zoom: 80%;
+    zoom: 200%;
     font-family: 'San Francisco';
 }
 
@@ -9,8 +9,6 @@ main {
     justify-content: center;
     padding: 0.5%;
     font-family: 'San Francisco';
-    width: 100%;
-    height: 100%;
 }
 
 
